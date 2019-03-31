@@ -7,4 +7,4 @@ python+opencv检测眼睛+人脸Demo
 
 运行结果：
 
-![]()
+![](https://raw.githubusercontent.com/HuangDaXu/face_eye_detect/master/demo.png)
