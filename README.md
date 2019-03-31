@@ -1,0 +1,5 @@
+# face_eye_detect
+python+opencv检测眼睛+人脸Demo
+
+
+需要一个摄像头，Python3.5.2,OpenCv
